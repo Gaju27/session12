@@ -8,6 +8,5 @@ from .softmax_call import softmax_
 from .tan_call import tan_,tan_h
 
 
-__all__ = ('sin_call' ,'sigmoid_cal','log_call','relu_call','exp_call','
-           sigmoid_call','tan_call','cos_call')
+__all__ = ('sin_call','sigmoid_cal','log_call','relu_call','exp_call','sigmoid_call','tan_call','cos_call')
 
