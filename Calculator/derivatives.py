@@ -6,3 +6,5 @@ from .scientific_funcs.relu_call import relu_d
 from .scientific_funcs.sigmoid_call import sigmoid_d
 from .scientific_funcs.sin_call import sin_d
 from .scientific_funcs.tan_call import tan_hd, tand_
+
+__all__ = ('cos_d', 'exponential_d', 'log_d', 'relu_d', 'sigmoid_d', 'sin_d', 'tan_hd', 'tand_')
